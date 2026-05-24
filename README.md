@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Banner animado com o nome Rhayner Araújo" />
+  <img src="./assets/header.svg" width="100%" alt="Banner animado com o nome Rhayner Martins" />
 </p>
 
 <p align="center">
