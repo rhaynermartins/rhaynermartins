@@ -10,7 +10,7 @@
   <a href="https://github.com/rhaynermartins">
     <img src="https://img.shields.io/badge/GitHub-rhaynermartins-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:rhaynermartins@icloud.com">
+  <a href="mailto:rhayner2005@icloud.com">
     <img src="https://img.shields.io/badge/Email-Contato-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -20,14 +20,6 @@
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Ciência da Computação** e estou construindo minha base em desenvolvimento de software, estruturas de dados, banco de dados e desenvolvimento web.
-
-Atualmente tenho interesse em:
-
-- desenvolvimento web moderno;
-- Java, C e JavaScript;
-- bancos de dados com PostgreSQL;
-- projetos acadêmicos e aplicações reais;
-- boas práticas com Git e GitHub.
 
 ---
 
@@ -71,12 +63,6 @@ Atualmente tenho interesse em:
     </td>
   </tr>
 </table>
-
----
-
-## 🚀 Projetos em destaque
-
-> Em breve vou adicionar aqui meus principais projetos acadêmicos e pessoais.
 
 ---
 

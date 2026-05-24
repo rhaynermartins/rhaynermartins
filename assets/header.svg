@@ -37,15 +37,15 @@
         font-family: 'Inter', system-ui, -apple-system, sans-serif;
         font-weight: 400;
         fill: #cccccc;
-        letter-spacing: 4px;
-        font-size: 18px;
-        opacity: 0.85;
+        letter-spacing: 3px;
+        font-size: 16.5px;
+        opacity: 0.8;
       }
 
       /* Animação de pulsar do neon */
       @keyframes pulseGlow {
-        0%, 100% { filter: drop-shadow(0 0 2px rgba(255,255,255,0.4)) drop-shadow(0 0 8px rgba(147, 51, 234, 0.6)); }
-        50% { filter: drop-shadow(0 0 4px rgba(255,255,255,0.6)) drop-shadow(0 0 16px rgba(219, 39, 119, 0.9)); }
+        0%, 100% { filter: drop-shadow(0 0 2px rgba(255,255,255,0.4)) drop-shadow(0 0 8px rgba(147, 51, 234, 0.5)); }
+        50% { filter: drop-shadow(0 0 4px rgba(255,255,255,0.6)) drop-shadow(0 0 16px rgba(219, 39, 119, 0.8)); }
       }
 
       .animated-glow {
@@ -89,14 +89,14 @@
     <circle cx="650" cy="240" r="1" class="star" />
   </g>
 
-  <!-- Linha de Luz Diagonal Traseira (Raio de energia do original) -->
+  <!-- Linha de Luz Diagonal Traseira -->
   <path d="M 450 -50 L 330 350" stroke="url(#bgGrad)" stroke-width="3" opacity="0.4" filter="url(#glow)" />
   <path d="M 420 -50 L 360 350" stroke="#9333ea" stroke-width="1" opacity="0.6" filter="url(#glow)" />
 
-  <!-- Grupo Principal do Logotipo e Textos -->
-  <g transform="translate(130, 75)">
+  <!-- COMPENSAÇÃO VISUAL: Movido o grupo de (145, 85) para (195, 85) para empurrar tudo para a direita -->
+  <g transform="translate(195, 85)">
     
-    <!-- Logotipo Vetorial "RH" customizado com base na imagem -->
+    <!-- Logotipo Vetorial "RH" -->
     <g class="animated-glow" fill="#ffffff">
       <!-- Perna esquerda do H / base do R -->
       <path d="M 12 40 L 12 100 L 28 100 L 28 55 L 12 40 Z" />
@@ -108,21 +108,21 @@
       <!-- Perna diagonal do R -->
       <path d="M 32 72 L 56 108 L 76 108 L 48 68 Z" />
       
-      <!-- Lado direito do H (traço vertical e junção) -->
+      <!-- Lado direito do H -->
       <path d="M 52 64 L 84 64 L 84 44 L 98 28 L 98 108 L 84 108 L 84 78 L 52 78 Z" />
     </g>
 
-    <!-- Linha Divisória Vertical sutil -->
-    <line x1="135" y1="20" x2="135" y2="110" stroke="#ffffff" stroke-width="1" opacity="0.25" />
+    <!-- Linha Divisória Vertical -->
+    <line x1="130" y1="18" x2="130" y2="114" stroke="#ffffff" stroke-width="1" opacity="0.2" />
 
-    <!-- Textos Principais -->
+    <!-- Bloco de Textos -->
     <g class="animated-glow">
-      <!-- Nome Rhayner Martins -->
-      <text x="170" y="72" font-size="52" class="text-main">Rhayner Martins</text>
+      <!-- Nome Principal -->
+      <text x="165" y="70" font-size="50" class="text-main">Rhayner Martins</text>
     </g>
     
-    <!-- Subtítulo / Tags de Atuação -->
-    <text x="172" y="112" class="text-sub">Software Engineer <tspan fill="#9333ea" font-weight="bold">•</tspan> Fullstack Developer</text>
+    <!-- Subtítulo -->
+    <text x="167" y="106" class="text-sub">Software Engineer <tspan fill="#d946ef" font-weight="bold">•</tspan> Fullstack Developer</text>
   </g>
   
 </svg>
