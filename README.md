@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8B5CF6&size=28&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Rhayner+Araújo;Estudante+de+Ciência+da+Computação;Desenvolvimento+Web+%7C+Java+%7C+C+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8B5CF6&size=28&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Rhayner+Martins;Estudante+de+Ciência+da+Computação;Desenvolvimento+Web+%7C+Java+%7C+C+%7C+PostgreSQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -53,17 +53,23 @@ Sou estudante de **Ciência da Computação** e estou construindo minha base em 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhaynermartins&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" width="100%" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rhaynermartins&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&bg_color=0d1117" height="200px"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaynermartins&layout=compact&hide_border=true&title_color=8B5CF6&text_color=FFFFFF&bg_color=0d1117" height="200px"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhaynermartins&theme=tokyonight" 
+    width="100%" 
+  />
+</p>
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhaynermartins&theme=tokyonight" 
+    height="180px" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rhaynermartins&theme=tokyonight" 
+    height="180px" 
+  />
+</p>
 ---
 
 <p align="center">
