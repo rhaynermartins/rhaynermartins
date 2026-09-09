@@ -57,11 +57,6 @@ Sou estudante de **Ciência da Computação** e estou construindo minha base em 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhaynermartins&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" width="100%" />
-</p>
-
-
-<p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhaynermartins&theme=tokyonight" 
     height="180px" 
